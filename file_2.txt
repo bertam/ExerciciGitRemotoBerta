@@ -1,0 +1,6 @@
+
+FICHERO 2 JAJA BERTA TE MODIFICO EL GIT
+=======
+Volem causar conflicte
+
+Fixeado los problems HS
