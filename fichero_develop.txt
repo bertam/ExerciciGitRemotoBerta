@@ -1,2 +1,7 @@
+
 Fichero creado en develop
 Segunda linea añadida en el commit de nuestro repositorio local
+=======
+Y nil viene y lo cambia
+omae wa mou shindeiru
+
